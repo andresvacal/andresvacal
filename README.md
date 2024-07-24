@@ -1,16 +1,27 @@
 ## Hi there 👋
+### Welcome
+# _Andrés Felipe Vaca Lago_
+Software/Systems engineering student. (last year)
 
-<!--
-**andresvacal/andresvacal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### current residence
+Bogotá Colombia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming expirience
+
+- Advanced programming: C++, Java, Python, C
+- Mobile: Kotlin, Flutter
+- Web-development: Angular, SpringBoot, Flask
+
+# _אנדרו_
+סטודנט להנדסת תוכנה/מערכות.
+
+
+#### מגורים נוכחיים
+קולומביה
+
+## ניסיון בתכנות
+
+-  C++, Java, Python, C
+-  Kotlin, Flutter
+-  Angular, SpringBoot, Flask
