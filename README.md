@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome
-# _Andrés Vaca _
+# Andrés Vaca 
 Software/Systems engineering student. (last year)
 
 
