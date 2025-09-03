@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome
-# _Andrés Felipe Vaca Lago_
+# _Andrés Vaca _
 Software/Systems engineering student. (last year)
 
 
