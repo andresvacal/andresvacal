@@ -14,8 +14,7 @@ Bogotá Colombia
 - Web-development: Angular, SpringBoot, Flask
 
 # _אנדרו_
-סטודנט להנדסת תוכנה/מערכות.
-
+מהנדס תוכנה/מערכות.
 
 #### מגורים נוכחיים
 קולומביה
