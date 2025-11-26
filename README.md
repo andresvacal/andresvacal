@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Welcome
 # Andrés Vaca 
-Software/Systems engineering student. (last year)
+Software/Systems engineer.
 
 
 #### current residence
